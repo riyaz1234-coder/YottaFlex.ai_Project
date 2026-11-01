@@ -1,0 +1,9 @@
+customer_id,email,name,updated_at,account_id,balance,run_id,source_files,processed_at
+C002,b@test.com,Bob,2023-01-02,A002,250.0,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C003,c@test.com,Charlie,2023-01-03,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C004,a@test.com,Alice Dup,2023-01-04,A004,0.0,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C005,d@test.com,Dave,2023-01-05,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C006,e@test.com,Eve,2023-01-06,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C007,f@test.com,Frank,2023-01-07,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C009,h@test.com,Henry,2023-01-09,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372
+C010,i@test.com,Ivy,2023-01-10,,,4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,"customers.csv, accounts.csv",2026-11-01T12:17:45.163372

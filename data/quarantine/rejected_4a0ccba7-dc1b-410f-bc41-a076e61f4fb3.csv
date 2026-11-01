@@ -1,0 +1,2 @@
+customer_id,email,name,updated_at,reject_reason,run_id,rejected_at
+C008,,Ghost,2023-01-08T00:00:00,Missing required field (email or name),4a0ccba7-dc1b-410f-bc41-a076e61f4fb3,2026-11-01T12:17:45.163372
